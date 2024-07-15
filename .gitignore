@@ -1,3 +1,4 @@
 GO_SSLCertGen
 cert.pem
 key.pem
+main.go
