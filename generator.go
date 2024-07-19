@@ -1,4 +1,4 @@
-package certGen
+package main
 
 import (
 	"crypto/rand"
